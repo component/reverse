@@ -12,8 +12,8 @@
 ## Example
 
 ```js
-reverse('foo 𝌆 bar') //
-reverse('mañana mañana') //
+reverse('foo 𝌆 bar') // rab 𝌆 oof
+reverse('mañana mañana') // anañam anañam
 ```
 
 ## API
