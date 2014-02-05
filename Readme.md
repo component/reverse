@@ -11,7 +11,7 @@
 
   Or with node.js:
 
-    $ npm install component-reverse
+    $ npm install reverse-component
 
 ## Example
 

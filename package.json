@@ -1,5 +1,5 @@
 {
-  "name": "component-reverse",
+  "name": "reverse-component",
   "version": "0.0.1",
   "description": "unicode-aware string reversal",
   "main": "index.js",
