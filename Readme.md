@@ -9,6 +9,10 @@
 
     $ component install component/reverse
 
+  Or with node.js:
+
+    $ npm install component-reverse
+
 ## Example
 
 ```js
