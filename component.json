@@ -2,7 +2,7 @@
   "name": "reverse",
   "repo": "component/reverse",
   "description": "unicode-aware string reverser",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [
     "reverse",
     "unicode",
