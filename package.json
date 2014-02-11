@@ -3,8 +3,10 @@
   "version": "0.0.1",
   "description": "unicode-aware string reversal",
   "main": "index.js",
-  "directories": {
-    "test": "test"
+  "component": {
+    "scripts": {
+      "reverse/index.js": "index.js"
+    }
   },
   "dependencies": {},
   "devDependencies": {
