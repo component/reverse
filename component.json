@@ -3,13 +3,16 @@
   "repo": "component/reverse",
   "description": "unicode-aware string reverser",
   "version": "0.0.1",
-  "keywords": [],
+  "keywords": [
+    "reverse",
+    "unicode",
+    "strings"
+  ],
   "dependencies": {},
   "development": {
     "component/assert": "*"
   },
   "license": "MIT",
-  "main": "index.js",
   "scripts": [
     "index.js"
   ]
